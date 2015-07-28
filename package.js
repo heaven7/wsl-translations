@@ -10,7 +10,6 @@ both = ['client','server'];
 
 Package.onUse(function(api) {
     api.versionsFrom('1.1.0.2');
-    api.addFiles('package-tap.i18n', both);
 
     api.use([
         'heaven7:wsl-core',
@@ -18,18 +17,19 @@ Package.onUse(function(api) {
     ], both);
 
     api.imply('heaven7:wsl-i18n');
+    api.addFiles('package-tap.i18n', both);
 
     api.addFiles([
 
-        // wsl-theme-base
-        'i18n/wsl-theme-base/de.i18n.json',
-        'i18n/wsl-theme-base/en.i18n.json',
-        'i18n/wsl-theme-base/es.i18n.json',
+         // wsl-theme-base
+         'i18n/wsl-theme-base/de.i18n.json',
+         'i18n/wsl-theme-base/en.i18n.json',
+         'i18n/wsl-theme-base/es.i18n.json',
 
-        // wsl-useraccounts
-        'i18n/wsl-useraccounts/de.i18n.json',
-        'i18n/wsl-useraccounts/en.i18n.json',
-        'i18n/wsl-useraccounts/es.i18n.json'
+         // wsl-useraccounts
+         'i18n/wsl-useraccounts/de.i18n.json',
+         'i18n/wsl-useraccounts/en.i18n.json',
+         'i18n/wsl-useraccounts/es.i18n.json'
     ], both);
 
 });
