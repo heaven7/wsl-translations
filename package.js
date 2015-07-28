@@ -20,9 +20,16 @@ Package.onUse(function(api) {
     api.imply('heaven7:wsl-i18n');
 
     api.addFiles([
+
+        // wsl-theme-base
         'i18n/wsl-theme-base/de.i18n.json',
         'i18n/wsl-theme-base/en.i18n.json',
-        'i18n/wsl-theme-base/es.i18n.json'
+        'i18n/wsl-theme-base/es.i18n.json',
+
+        // wsl-useraccounts
+        'i18n/wsl-useraccounts/de.i18n.json',
+        'i18n/wsl-useraccounts/en.i18n.json',
+        'i18n/wsl-useraccounts/es.i18n.json'
     ], both);
 
 });
