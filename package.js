@@ -21,15 +21,51 @@ Package.onUse(function(api) {
 
     api.addFiles([
 
-         // wsl-theme-base
-         'i18n/wsl-theme-base/de.i18n.json',
-         'i18n/wsl-theme-base/en.i18n.json',
-         'i18n/wsl-theme-base/es.i18n.json',
+        // wsl-events
+        'i18n/wsl-events/de.i18n.json',
+        'i18n/wsl-events/en.i18n.json',
+        'i18n/wsl-events/es.i18n.json',
 
-         // wsl-useraccounts
-         'i18n/wsl-useraccounts/de.i18n.json',
-         'i18n/wsl-useraccounts/en.i18n.json',
-         'i18n/wsl-useraccounts/es.i18n.json'
+        // wsl-items
+        'i18n/wsl-items/de.i18n.json',
+        'i18n/wsl-items/en.i18n.json',
+        'i18n/wsl-items/es.i18n.json',
+
+        // wsl-locations
+        'i18n/wsl-locations/de.i18n.json',
+        'i18n/wsl-locations/en.i18n.json',
+        'i18n/wsl-locations/es.i18n.json',
+
+        // wsl-projects
+        'i18n/wsl-projects/de.i18n.json',
+        'i18n/wsl-projects/en.i18n.json',
+        'i18n/wsl-projects/es.i18n.json',
+
+        // wsl-search
+        'i18n/wsl-search/de.i18n.json',
+        'i18n/wsl-search/en.i18n.json',
+        'i18n/wsl-search/es.i18n.json',
+
+        // wsl-settings
+        'i18n/wsl-settings/de.i18n.json',
+        'i18n/wsl-settings/en.i18n.json',
+        'i18n/wsl-settings/es.i18n.json',
+
+        // wsl-tasks
+        'i18n/wsl-tasks/de.i18n.json',
+        'i18n/wsl-tasks/en.i18n.json',
+        'i18n/wsl-tasks/es.i18n.json',
+
+        // wsl-theme-base
+        'i18n/wsl-theme-base/de.i18n.json',
+        'i18n/wsl-theme-base/en.i18n.json',
+        'i18n/wsl-theme-base/es.i18n.json',
+
+        // wsl-useraccounts
+        'i18n/wsl-useraccounts/de.i18n.json',
+        'i18n/wsl-useraccounts/en.i18n.json',
+        'i18n/wsl-useraccounts/es.i18n.json'
+
     ], both);
 
 });
