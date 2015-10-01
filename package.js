@@ -41,10 +41,10 @@ Package.onUse(function(api) {
         'i18n/wsl-projects/en.i18n.json',
         'i18n/wsl-projects/es.i18n.json',
 
-        // wsl-search
-        'i18n/wsl-search/de.i18n.json',
-        'i18n/wsl-search/en.i18n.json',
-        'i18n/wsl-search/es.i18n.json',
+        // wsl-fulfiller
+        'i18n/wsl-fulfiller/de.i18n.json',
+        'i18n/wsl-fulfiller/en.i18n.json',
+        'i18n/wsl-fulfiller/es.i18n.json',
 
         // wsl-settings
         'i18n/wsl-settings/de.i18n.json',
