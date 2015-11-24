@@ -1,4 +1,9 @@
 {
   "invite_members": "Mitglieder einladen",
-  "join": "Teilnehmen"
+  "invite": "Einladen",
+  "request_pending": "Anfrage in Bearbeitung...",
+  "join": "Teilnehmen",
+  "membership_accepted": "Anfrage akzeptiert",
+  "membership_not_accepted": "Anfrage konnte nicht akzeptiert werden",
+  "membership_not_allowed_to_accept": "Du bist nicht berechtigt diese Anfrage nicht akzeptieren"
 }
