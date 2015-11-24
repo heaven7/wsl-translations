@@ -1,2 +1,7 @@
 {
+  "applyForTask": "Apply",
+  "add_category": "Add Category",
+  "add_subcategory": "Add Subcategory",
+  "add_task": "Add Task",
+  "add_subtask": "Add SubTask"
 }

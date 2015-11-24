@@ -21,10 +21,20 @@ Package.onUse(function(api) {
 
     api.addFiles([
 
+        // general translations
+        'i18n/de.i18n.json',
+        'i18n/en.i18n.json',
+        'i18n/es.i18n.json',
+
         // wsl-events
         'i18n/wsl-events/de.i18n.json',
         'i18n/wsl-events/en.i18n.json',
         'i18n/wsl-events/es.i18n.json',
+
+        // wsl-fulfiller
+        'i18n/wsl-fulfiller/de.i18n.json',
+        'i18n/wsl-fulfiller/en.i18n.json',
+        'i18n/wsl-fulfiller/es.i18n.json',
 
         // wsl-items
         'i18n/wsl-items/de.i18n.json',
@@ -36,15 +46,15 @@ Package.onUse(function(api) {
         'i18n/wsl-locations/en.i18n.json',
         'i18n/wsl-locations/es.i18n.json',
 
+        // wsl-memberships
+        'i18n/wsl-memberships/de.i18n.json',
+        'i18n/wsl-memberships/en.i18n.json',
+        'i18n/wsl-memberships/es.i18n.json',
+
         // wsl-projects
         'i18n/wsl-projects/de.i18n.json',
         'i18n/wsl-projects/en.i18n.json',
         'i18n/wsl-projects/es.i18n.json',
-
-        // wsl-fulfiller
-        'i18n/wsl-fulfiller/de.i18n.json',
-        'i18n/wsl-fulfiller/en.i18n.json',
-        'i18n/wsl-fulfiller/es.i18n.json',
 
         // wsl-settings
         'i18n/wsl-settings/de.i18n.json',

@@ -1,2 +1,7 @@
 {
+  "applyForTask": "Annehmen",
+  "add_category": "Kategorie anlegen",
+  "add_subcategory": "Subkategorie anlegen",
+  "add_task": "Aufgabe erstellen",
+  "add_subtask": "Unteraufgabe erstellen"
 }
