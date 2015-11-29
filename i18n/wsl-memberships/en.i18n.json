@@ -1,6 +1,8 @@
 {
   "invite_members": "Invite members",
+  "invite_members_to_project": "Invite members to this project",
   "invite": "Invite",
+  "invitation_send_successfully": "Invitation(s) sent successfully.",
   "request_pending": "Request pending...",
   "join": "Join",
   "membership_accepted": "Request is accepted.",

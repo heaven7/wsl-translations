@@ -1,6 +1,8 @@
 {
   "invite_members": "Mitglieder einladen",
+  "invite_members_to_project": "Mitglieder zu diesem Projekt einladen",
   "invite": "Einladen",
+  "invitation_send_successfully": "Einladung(en) wurden erfolgreich verschickt.",
   "request_pending": "Anfrage in Bearbeitung...",
   "join": "Teilnehmen",
   "membership_accepted": "Anfrage akzeptiert",

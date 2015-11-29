@@ -1,4 +1,8 @@
 {
   "account_details_heading": "Konto details",
-  "change_password": "Passwort ändern"
+  "change_password": "Passwort ändern",
+  "username_already_exists": "Usernamen gibt es schon, bitte einen anderen wählen.",
+  "account_setup": "Account Setup",
+  "choose_username": "Wähle deinen Benutzernamen",
+  "please_login_again": "Du wurdest vom Server abgemeldet. Bitte <a href=\"/login\">melde</a> dich wieder an."
 }

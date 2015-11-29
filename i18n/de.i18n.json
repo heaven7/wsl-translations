@@ -1,6 +1,8 @@
 {
   "cancel": "Abbrechen",
   "edit": "Ändern",
+  "add": "Hinzufügen",
   "update": "Speichern",
-  "delete": "Löschen"
+  "delete": "Löschen",
+  "not_allowed": "Nicht berechtigt"
 }

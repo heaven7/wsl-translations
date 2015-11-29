@@ -1,6 +1,8 @@
 {
   "cancel": "Cancel",
   "edit": "Edit",
+  "add": "Add",
   "update": "Update",
-  "delete": "Delete"
+  "delete": "Delete",
+  "not_allowed": "Not allowed"
 }
