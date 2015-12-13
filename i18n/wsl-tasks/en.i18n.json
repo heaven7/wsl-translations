@@ -2,6 +2,29 @@
   "applyForTask": "Apply",
   "add_category": "Add Category",
   "add_subcategory": "Add Subcategory",
+  "add_category_to_project": "Add Category to project",
   "add_task": "Add Task",
-  "add_subtask": "Add SubTask"
+  "add_subtask": "Add SubTask",
+
+  // dragon dreaming project setup
+  "dream": "Dream",
+  "design": "Plan",
+  "act": "Act",
+  "celebrate": "Celebrate",
+
+  "consciousness": "Consciousness",
+  "motivation": "Motivation",
+  "collect_information": "Collect information",
+
+  "consider_alternatives": "Consider alternatives",
+  "develop_strategies": "Develop strategies",
+  "testing_develop_prototypes": "Testing / develop prototypes",
+
+  "implementation": "Implementation",
+  "management_administration": "Management & Administration",
+  "monitoring": "Monitoring",
+
+  "new_skills": "New skills",
+  "transforming_results": "Transforming results",
+  "gain_wisdom": "Gain wisdom"
 }

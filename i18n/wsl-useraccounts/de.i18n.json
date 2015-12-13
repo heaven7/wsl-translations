@@ -4,5 +4,5 @@
   "username_already_exists": "Usernamen gibt es schon, bitte einen anderen wählen.",
   "account_setup": "Account Setup",
   "choose_username": "Wähle deinen Benutzernamen",
-  "please_login_again": "Du wurdest vom Server abgemeldet. Bitte <a href=\"/login\">melde</a> dich wieder an."
+  "please_login_again": "Damit das funktioniert <a href=\"/login\">melde</a> dich bitte an."
 }

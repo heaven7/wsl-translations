@@ -7,16 +7,15 @@ Package.describe({
 });
 
 both = ['client','server'];
-
+packages = [
+    'heaven7:wsl-i18n@0.0.2'
+];
 Package.onUse(function(api) {
     api.versionsFrom('1.2');
 
-    api.use([
-        'heaven7:wsl-core@0.0.2',
-        'heaven7:wsl-i18n@0.0.2'
-    ], both);
+    api.use(packages, both);
 
-    api.imply('heaven7:wsl-i18n');
+    api.imply(packages);
     api.addFiles('package-tap.i18n', both);
 
     api.addFiles([

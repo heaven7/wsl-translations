@@ -4,5 +4,5 @@
   "username_already_exists": "Username already exists, please choose another.",
   "account_setup": "Account setup",
   "choose_username": "Choose your username",
-  "please_login_again": "You've been logged out by the server. Please <a href=\"/login\">log in</a> again"
+  "please_login_again": "To make this work properly please <a href=\"/login\">log in</a>"
 }

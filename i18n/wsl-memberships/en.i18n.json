@@ -5,7 +5,9 @@
   "invitation_send_successfully": "Invitation(s) sent successfully.",
   "request_pending": "Request pending...",
   "join": "Join",
-  "membership_accepted": "Request is accepted.",
+  "members_count": "Members: ",
+  "membership_accepted": "Request is accepted",
+  "invitation_accepted": "Invitation accepted",
   "membership_not_accepted": "Request could not be accepted",
   "membership_not_allowed_to_accept": "You are not allowed to accept this request"
 }
