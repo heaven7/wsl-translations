@@ -1,6 +1,6 @@
 Package.describe({
   name: 'heaven7:wsl-translations',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Translations package',
   git: 'https://github.com/heaven7/wsl-translations.git',
   documentation: 'README.md'
@@ -8,7 +8,7 @@ Package.describe({
 
 var both = ['client','server'],
     packages = [
-        'heaven7:wsl-i18n@0.0.2'
+        'heaven7:wsl-i18n@0.0.3'
     ];
 Package.onUse(function(api) {
     api.versionsFrom('1.2');
