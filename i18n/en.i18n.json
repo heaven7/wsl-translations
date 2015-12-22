@@ -4,5 +4,8 @@
   "add": "Add",
   "update": "Update",
   "delete": "Delete",
-  "not_allowed": "Not allowed"
+  "not_allowed": "Not allowed",
+
+  "hello_user": "Hello __username__",
+  "you": "you"
 }

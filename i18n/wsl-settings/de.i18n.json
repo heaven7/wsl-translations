@@ -1,4 +1,22 @@
 {
   "settings": "Einstellungen",
-  "project_settings": "Projekt Einstellungen"
+  "project_settings": "Projekt Einstellungen",
+
+  "schemas": {
+    "settings": {
+      "public": {
+        "label": "Öffentlich"
+      },
+      "watchable": {
+        "label": "Beobachtbar"
+      },
+      "shareable": {
+        "label": "Teilbar"
+      },
+      "commentable": {
+        "label": "Kommentierbar"
+      }
+    }
+
+  }
 }

@@ -4,5 +4,8 @@
   "add": "Hinzufügen",
   "update": "Speichern",
   "delete": "Löschen",
-  "not_allowed": "Nicht berechtigt"
+  "not_allowed": "Nicht berechtigt",
+
+  "hello_user": "Hallo __username__",
+  "you": "Du"
 }

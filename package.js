@@ -6,17 +6,17 @@ Package.describe({
   documentation: 'README.md'
 });
 
-both = ['client','server'];
-packages = [
-    'heaven7:wsl-i18n@0.0.2'
-];
+var both = ['client','server'],
+    packages = [
+        'heaven7:wsl-i18n@0.0.2'
+    ];
 Package.onUse(function(api) {
     api.versionsFrom('1.2');
-
     api.use(packages, both);
-
     api.imply(packages);
+
     api.addFiles('package-tap.i18n', both);
+
 
     api.addFiles([
 

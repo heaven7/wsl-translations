@@ -26,6 +26,43 @@
 
   "new_skills": "Neue Fähigkeiten",
   "transforming_results": "Transformierende Ergebnisse",
-  "gain_wisdom": "Weisheit erlangen"
+  "gain_wisdom": "Weisheit erlangen",
+
+  "schemas": {
+    "tasks": {
+      "title": {
+        "label": "Aufgabentitel"
+      },
+      "description": {
+        "label": "Beschreibung"
+      },
+      "category": {
+        "label": "Kategorie"
+      },
+      "startDate": {
+        "label": "Startdatum"
+      },
+      "stopDate": {
+        "label": "Enddatum"
+      },
+      "estimatedTimeToComplete": {
+        "label": "Geschätzter Zeitaufwand"
+      },
+      "publicity": {
+        "label": "Grad der Öffentlichkeit"
+      },
+      "incomingTasks": {
+        "label": "eingehende Aufgaben"
+      },
+      "outgoingTasks": {
+        "label": "ausgehende Aufgaben"
+      }
+    },
+    "taskcategories": {
+      "title": {
+        "label": "Kategorietitel"
+      }
+    }
+  }
 
 }

@@ -5,9 +5,17 @@
   "invitation_send_successfully": "Invitation(s) sent successfully.",
   "request_pending": "Request pending...",
   "join": "Join",
+  "accept": "Accept",
   "members_count": "Members: ",
   "membership_accepted": "Request is accepted",
   "invitation_accepted": "Invitation accepted",
   "membership_not_accepted": "Request could not be accepted",
-  "membership_not_allowed_to_accept": "You are not allowed to accept this request"
+  "membership_not_allowed_to_accept": "You are not allowed to accept this request",
+
+  "subject_user_is_invited_to_join_ressource": "[__host__] __username__ has invited you",
+  "user_is_invited_to_join_ressource": "__username__ has invited you to join __ressourceTitle__ (__ressourceType__).<br> To join just click the button below.",
+  "subject_user_wants_to_join_ressource": "[__host__] __username__ wants to join __ressourceTitle__",
+  "user_wants_to_join_ressource": "__username__ wants to join __ressourceTitle__ (__ressourceType__).<br> To accept this, click the button below."
+
+
 }

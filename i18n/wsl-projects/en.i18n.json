@@ -1,5 +1,37 @@
 {
+  "projects": "Project",
+  "projects_plural": "Projects",
+  "members": "Member",
+  "members_plural": "Members",
+
   "add_project": "Add project",
   "edit_project": "Edit project",
-  "delete_project": "Delete project"
+  "delete_project": "Delete project",
+
+  "project-admin": "Project administrator",
+  "role_tasks": "Task manager",
+  "role_taskCategories": "Category manager",
+
+  "schemas": {
+    "projects": {
+      "title": {
+        "label": "Title",
+        "placeholder": "Your projecttitle"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": "Describe your project"
+      },
+      "images": {
+        "label": "Project images",
+        "image": {
+          "label": "Image"
+        }
+      },
+      "dragonproject": {
+        "label": "Follows your project the Dragon Dreaming principle?"
+      }
+    }
+  }
+
 }

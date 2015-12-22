@@ -1,5 +1,37 @@
 {
+  "projects": "Projekt",
+  "projects_plural": "Projekte",
+  "members": "Mitglied",
+  "members_plural": "Mitglieder",
+
   "add_project": "Projekt hinzufügen",
   "edit_project": "Projekt ändern",
-  "delete_project": "Projekt löschen"
+  "delete_project": "Projekt löschen",
+
+  "project-admin": "Projekt Administrator",
+  "role_tasks": "Task Manager",
+  "role_taskCategories": "Kategorie Manager",
+
+  "schemas": {
+    "projects": {
+      "title": {
+        "label": "Titel",
+        "placeholder": "Projekttitel"
+      },
+      "description": {
+        "label": "Beschreibung",
+        "placeholder": "Beschreibe dein Projekt"
+      },
+      "images": {
+        "label": "Projektbilder",
+        "image": {
+          "label": "Bild"
+        }
+      },
+      "dragonproject": {
+        "label": "Folgt dein Projekt dem Dragon Dreaming Prinzip?"
+      }
+    }
+  }
+
 }

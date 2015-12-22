@@ -5,9 +5,16 @@
   "invitation_send_successfully": "Einladung(en) wurden erfolgreich verschickt.",
   "request_pending": "Anfrage in Bearbeitung...",
   "join": "Teilnehmen",
+  "accept": "Akzeptieren",
   "members_count": "Mitglieder: ",
   "membership_accepted": "Anfrage akzeptiert",
   "invitation_accepted": "Einladung akzeptiert",
   "membership_not_accepted": "Anfrage konnte nicht akzeptiert werden",
-  "membership_not_allowed_to_accept": "Du bist nicht berechtigt diese Anfrage zu akzeptieren"
+  "membership_not_allowed_to_accept": "Du bist nicht berechtigt diese Anfrage zu akzeptieren",
+
+  "subject_user_is_invited_to_join_ressource": "[__host__] __username__ hat dich eingeladen",
+  "user_is_invited_to_join_ressource": "__username__ hat dich eingeladen mitzumachen bei __ressourceTitle__ (__ressourceType__).<br> Um teilzunehmen klicke auf den Link.",
+  "subject_user_wants_to_join_ressource": "[__host__] __username__ möchte teilnehmen bei __ressourceTitle__",
+  "user_wants_to_join_ressource": "__username__ möchte bei __ressourceTitle__ (__ressourceType__) mitmachen.<br> Um die Teilnahme zu akzeptieren, klicke auf den Link."
+
 }

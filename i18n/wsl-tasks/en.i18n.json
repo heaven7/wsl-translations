@@ -26,5 +26,42 @@
 
   "new_skills": "New skills",
   "transforming_results": "Transforming results",
-  "gain_wisdom": "Gain wisdom"
+  "gain_wisdom": "Gain wisdom",
+
+  "schemas": {
+    "tasks": {
+      "title": {
+        "label": "Task title"
+      },
+      "description": {
+        "label": "Deschription"
+      },
+      "category": {
+        "label": "Task category"
+      },
+      "startDate": {
+        "label": "Start date"
+      },
+      "stopDate": {
+        "label": "End date"
+      },
+      "estimatedTimeToComplete": {
+        "label": "Estimated time to complete"
+      },
+      "publicity": {
+        "label": "Degree of publicity"
+      },
+      "incomingTasks": {
+        "label": "incoming tasks"
+      },
+      "outgoingTasks": {
+        "label": "outgoing tasks"
+      }
+    },
+    "taskcategories": {
+      "title": {
+        "label": "Category title"
+      }
+    }
+  }
 }
