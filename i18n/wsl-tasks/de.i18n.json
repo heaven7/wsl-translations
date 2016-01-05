@@ -33,6 +33,9 @@
       "title": {
         "label": "Aufgabentitel"
       },
+      "completed": {
+        "label": "% fertig"
+      },
       "description": {
         "label": "Beschreibung"
       },
@@ -47,6 +50,9 @@
       },
       "estimatedTimeToComplete": {
         "label": "Geschätzter Zeitaufwand"
+      },
+      "estimatedCosts": {
+        "label": "Geschätzte Kosten"
       },
       "publicity": {
         "label": "Grad der Öffentlichkeit"

@@ -33,8 +33,11 @@
       "title": {
         "label": "Task title"
       },
+      "completed": {
+        "label": "% completed"
+      },
       "description": {
-        "label": "Deschription"
+        "label": "Description"
       },
       "category": {
         "label": "Task category"
@@ -47,6 +50,9 @@
       },
       "estimatedTimeToComplete": {
         "label": "Estimated time to complete"
+      },
+      "estimatedCosts": {
+        "label": "Estimated costs"
       },
       "publicity": {
         "label": "Degree of publicity"
