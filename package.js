@@ -1,3 +1,4 @@
+
 Package.describe({
   name: 'heaven7:wsl-translations',
   version: '0.0.3',
@@ -8,17 +9,17 @@ Package.describe({
 
 var both = ['client','server'],
     packages = [
-        'heaven7:wsl-i18n@0.0.3'
+        'heaven7:wsl-core@0.0.3_1'
     ];
 Package.onUse(function(api) {
     api.versionsFrom('1.2');
     api.use(packages, both);
     api.imply(packages);
 
-    api.addFiles('package-tap.i18n', both);
+    api.addAssets('package-tap.i18n', both);
 
 
-    api.addFiles([
+    api.addAssets([
 
         // general translations
         'i18n/de.i18n.json',
