@@ -1,5 +1,8 @@
 {
-  "translation_function_name": "__",
   "helper_name": "_",
-  "namespace": "project"
+  "translation_function_name": "__",
+  "supported_languages": ["en", "de", "es"],
+  "namespace": "project",
+  "languages_files_dir": "i18n",
+  "preloaded_langs": ["en", "de"]
 }
