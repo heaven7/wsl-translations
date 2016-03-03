@@ -1,6 +1,6 @@
 Package.describe({
   name: 'heaven7:wsl-translations',
-  version: '0.0.3',
+  version: '0.0.4',
   summary: 'Translations package',
   git: 'https://github.com/heaven7/wsl-translations.git',
   documentation: 'README.md'
