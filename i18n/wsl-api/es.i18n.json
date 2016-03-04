@@ -1,0 +1,6 @@
+{
+  "api_key": "API clave",
+  "change_api_key": "Cambiar clave de API",
+  "confirm_regeneration_of_api_key": "¿Estás seguro? Esto anularía su clave actual!",
+  "keep_api_key_save": "Para acceder a la API de WSL, utilice la siguiente clave de API. Asegúrese de mantener la clave super seguro! <strong>Si desea generar una nueva clave, haga clic en el icono 'Actualizar' en el campo de abajo</strong>."
+}

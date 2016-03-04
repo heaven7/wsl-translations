@@ -1,0 +1,6 @@
+{
+  "api_key": "API Schlüssel",
+  "change_api_key": "API Schlüssel ändern",
+  "confirm_regeneration_of_api_key": "Bist du sicher? Dadurch wird dein aktueller Schlüssel ungültig!",
+  "keep_api_key_save": "Um Zugriff auf die WSL API zu haben, benutze diesen Schlüssel. Gib den Schlüssel nicht weiter und halte ihn sicher! <strong>Falls du einen neuen Schlüssel generieren möchtest, klicke auf den Refresh-Button unterhalb vom Schlüssel-Feld</strong>."
+}

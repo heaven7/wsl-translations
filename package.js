@@ -24,6 +24,11 @@ Package.onUse(function(api) {
         'i18n/en.i18n.json',
         'i18n/es.i18n.json',
 
+        // wsl-api
+        'i18n/wsl-api/de.i18n.json',
+        'i18n/wsl-api/en.i18n.json',
+        'i18n/wsl-api/es.i18n.json',
+
         // wsl-events
         'i18n/wsl-events/de.i18n.json',
         'i18n/wsl-events/en.i18n.json',
