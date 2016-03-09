@@ -1,5 +1,6 @@
 {
-  "offer": "ich habe",
-  "need": "ich brauche",
-  "wish": "ich wünsche"
+  "offer": "Angebot",
+  "need": "Bedarf",
+  "wish": "Wunsch",
+  "dream": "Traum"
 }

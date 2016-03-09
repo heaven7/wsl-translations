@@ -1,2 +1,18 @@
 {
+  "save_item": "Sache speichern",
+  "confirm_delete_item": "Möchtest du das wirklich löschen?",
+
+  "schemas": {
+    "items": {
+      "title": {
+        "label": "Titel"
+      },
+      "description": {
+        "label": "Beschreibung"
+      },
+      "types": {
+        "label": "Typ"
+      }
+    }
+  }
 }

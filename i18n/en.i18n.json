@@ -4,6 +4,8 @@
   "add": "Add",
   "update": "Update",
   "delete": "Delete",
+  "successfully_deleted": "Successfully deleted",
+  "choose": "Please choose",
   "not_allowed": "Not allowed",
 
   "hello_user": "Hello __username__",

@@ -16,7 +16,7 @@
     "projects": {
       "title": {
         "label": "Title",
-        "placeholder": "Your projecttitle"
+        "placeholder": "Your project title"
       },
       "description": {
         "label": "Description",

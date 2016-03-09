@@ -1,2 +1,18 @@
 {
+  "save_item": "Save item",
+  "confirm_delete_item": "Do you really want to delete that?",
+
+  "schemas": {
+    "items": {
+      "title": {
+        "label": "Title"
+      },
+      "description": {
+        "label": "Description"
+      },
+      "types": {
+        "label": "Type"
+      }
+    }
+  }
 }
