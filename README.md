@@ -1,1 +1,1 @@
-Translations package
+Translations package, used internally for the [wsl project](https://github.com/heaven7/wsl).
