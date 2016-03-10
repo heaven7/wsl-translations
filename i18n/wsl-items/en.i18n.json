@@ -1,5 +1,11 @@
 {
+  "offer": "offer",
+  "need": "need",
+  "wish": "wish",
+  "dream": "dream",
+  "range": "range",
   "save_item": "Save item",
+  "tell_others": "Tell it to the others",
   "confirm_delete_item": "Do you really want to delete that?",
 
   "schemas": {

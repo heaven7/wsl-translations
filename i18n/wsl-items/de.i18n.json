@@ -1,5 +1,11 @@
 {
+  "offer": "Angebot",
+  "need": "Bedarf",
+  "wish": "Wunsch",
+  "dream": "Traum",
+  "range": "Umkreis",
   "save_item": "Sache speichern",
+  "tell_others": "Sag' es den anderen",
   "confirm_delete_item": "Möchtest du das wirklich löschen?",
 
   "schemas": {
